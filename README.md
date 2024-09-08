@@ -1,6 +1,5 @@
 # hospital-management-system
 A SQL-based project for managing hospital data, admissions, treatments, and doctor performance."
-Project Description: ## Hospital Management System
 This project is a hospital management system built to manage patient records, doctor performance, and resource utilization. It provides an efficient way to handle hospital admissions, discharges, appointments, and medical reports.
 ## Features
 - Patient admission and discharge tracking
